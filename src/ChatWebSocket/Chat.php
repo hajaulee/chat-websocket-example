@@ -1,3 +1,5 @@
+<?php
+
 namespace ChatWebSocket;
 use Ratchet\MessageComponentInterface;
 use Ratchet\ConnectionInterface;
